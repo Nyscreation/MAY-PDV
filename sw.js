@@ -1,4 +1,4 @@
-const CACHE = "vendefacil-v3";
+const CACHE = "vendefacil-v4-mobile";
 const BASE = self.registration.scope;
 const CORE = [BASE, new URL("manifest.webmanifest", BASE).href, new URL("icons/app-icon.svg", BASE).href];
 

@@ -1,0 +1,14 @@
+MAY-PDV — Atualização mobile
+Data: 05/09/2026
+
+Alterações:
+- Layout travado na largura real do celular, sem rolagem horizontal da página.
+- Busca do PDV e botão da câmera reorganizados para caberem lado a lado em telas pequenas.
+- Campo de busca permanece acessível no topo durante a venda em celulares.
+- Leitor de código de barras redimensionado para não cortar a câmera nem o botão Cancelar.
+- Inputs com tamanho adequado no celular para evitar zoom automático ao tocar.
+- Resumo da venda deixa de sobrepor conteúdo em telas menores.
+- Melhorias para safe areas de celulares e PWA.
+- Cache do Service Worker atualizado para forçar a nova versão após publicação.
+
+As funções e dados existentes do PDV foram preservados.
